@@ -1,0 +1,12 @@
+/Users/hlw1404/RiderProjects/ExampleLinq/ExampleLinq/bin/Debug/ExampleLinq.exe
+/Users/hlw1404/RiderProjects/ExampleLinq/ExampleLinq/bin/Debug/ExampleLinq.pdb
+/Users/hlw1404/RiderProjects/ExampleLinq/ExampleLinq/bin/Debug/MoreLinq.dll
+/Users/hlw1404/RiderProjects/ExampleLinq/ExampleLinq/bin/Debug/System.ValueTuple.dll
+/Users/hlw1404/RiderProjects/ExampleLinq/ExampleLinq/bin/Debug/MoreLinq.pdb
+/Users/hlw1404/RiderProjects/ExampleLinq/ExampleLinq/bin/Debug/MoreLinq.xml
+/Users/hlw1404/RiderProjects/ExampleLinq/ExampleLinq/bin/Debug/System.ValueTuple.xml
+/Users/hlw1404/RiderProjects/ExampleLinq/ExampleLinq/obj/Debug/ExampleLinq.csprojAssemblyReference.cache
+/Users/hlw1404/RiderProjects/ExampleLinq/ExampleLinq/obj/Debug/ExampleLinq.csproj.CoreCompileInputs.cache
+/Users/hlw1404/RiderProjects/ExampleLinq/ExampleLinq/obj/Debug/ExampleLinq.csproj.CopyComplete
+/Users/hlw1404/RiderProjects/ExampleLinq/ExampleLinq/obj/Debug/ExampleLinq.exe
+/Users/hlw1404/RiderProjects/ExampleLinq/ExampleLinq/obj/Debug/ExampleLinq.pdb
